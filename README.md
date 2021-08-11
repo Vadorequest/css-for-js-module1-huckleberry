@@ -1,3 +1,10 @@
+Time spent:
+- `705d4cbe9dc902756ccce3446a03f15511c8f712` "Good enough": 45mn
+  - Mobile is ugly
+  - Title in card background takes all width (not responsive based on text's width)
+
+---
+
 # Huckleberry Agency Website
 
 In this workshop, you'll build a minimal landing page for an agency.
