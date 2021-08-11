@@ -53,6 +53,7 @@ strong {
   margin: 0 0 0 -30px;
   padding: 10px 20px;
   background-color: hsl(45, 100%, 50%);
+  width: fit-content;
 }
 
 .card {
