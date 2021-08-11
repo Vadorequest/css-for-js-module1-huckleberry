@@ -9,4 +9,56 @@ body {
   padding: 0;
 }
 
-/* Add styles here! */
+header,
+section {
+  border-bottom: hsl(0, 0%, 40%) 4px solid;
+}
+
+header {
+  padding-left: 80px;
+}
+
+main {
+  padding-left: calc(80px - 15px);
+}
+
+section {
+  width: 500px;
+  padding: 16px;
+}
+
+header .max-width-wrapper {
+  max-width: 15%;
+  margin: 128px;
+}
+
+main {
+  background-color: hsl(0, 0%, 60%);
+}
+
+main .max-width-wrapper {
+  max-width: 50%;
+  padding: 128px;
+}
+
+.title {
+  margin: 50px 0;
+}
+
+strong {
+  color: green;
+}
+
+.indented-heading {
+  margin: 0 0 0 -30px;
+  padding: 10px 20px;
+  background-color: hsl(45, 100%, 50%);
+}
+
+.card {
+  background-color: white;
+  margin: 0;
+  padding: 5px 15px 15px;
+  width: 600px;
+  border-bottom: hsl(0, 0%, 40%) 4px solid;
+}
